@@ -1,0 +1,13 @@
+D:\GrandCircus\Deliverable2\Deliverable2\bin\Debug\netcoreapp3.1\Deliverable2.exe
+D:\GrandCircus\Deliverable2\Deliverable2\bin\Debug\netcoreapp3.1\Deliverable2.deps.json
+D:\GrandCircus\Deliverable2\Deliverable2\bin\Debug\netcoreapp3.1\Deliverable2.runtimeconfig.json
+D:\GrandCircus\Deliverable2\Deliverable2\bin\Debug\netcoreapp3.1\Deliverable2.runtimeconfig.dev.json
+D:\GrandCircus\Deliverable2\Deliverable2\bin\Debug\netcoreapp3.1\Deliverable2.dll
+D:\GrandCircus\Deliverable2\Deliverable2\bin\Debug\netcoreapp3.1\Deliverable2.pdb
+D:\GrandCircus\Deliverable2\Deliverable2\obj\Debug\netcoreapp3.1\Deliverable2.csprojAssemblyReference.cache
+D:\GrandCircus\Deliverable2\Deliverable2\obj\Debug\netcoreapp3.1\Deliverable2.AssemblyInfoInputs.cache
+D:\GrandCircus\Deliverable2\Deliverable2\obj\Debug\netcoreapp3.1\Deliverable2.AssemblyInfo.cs
+D:\GrandCircus\Deliverable2\Deliverable2\obj\Debug\netcoreapp3.1\Deliverable2.csproj.CoreCompileInputs.cache
+D:\GrandCircus\Deliverable2\Deliverable2\obj\Debug\netcoreapp3.1\Deliverable2.dll
+D:\GrandCircus\Deliverable2\Deliverable2\obj\Debug\netcoreapp3.1\Deliverable2.pdb
+D:\GrandCircus\Deliverable2\Deliverable2\obj\Debug\netcoreapp3.1\Deliverable2.genruntimeconfig.cache
